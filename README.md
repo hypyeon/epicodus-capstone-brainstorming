@@ -3,9 +3,9 @@ by [Hayeong Pyeon](https://www.hayeong.website)
 
 ## Description
 - This is a brainstorming section for Capstone project. 
-- Draw.io was used for idea board & outline. (*Idea board created on Jan 12, 2024*)
-- Application Planning #1 includes more in-depth plans about the app design and functionality, and what technologies to be used for major features. Came up with a name for this app - **Linkup Zone**. (*Completed on Feb 16, 2024*)
-- Any in-person discussion regarding the project will be uploaded separately from the README, in `.txt` files, for recording and future reference purpose. 
+- Draw.io was used for **Idea Board & Outline**. (*Idea board created on Jan 12, 2024*)
+- **Application Planning #1** includes more in-depth plans about the app design and functionality, and what technologies to be used for major features. Came up with a name for this app - **Linkup Zone**. (*Completed on Feb 16, 2024*)
+- Any in-person discussion regarding the project will be uploaded separately from the README, in `.txt` format, for recording and future reference purpose. 
 
 ## Idea Board (Jan 12, 2024)
 ![Idea Board](./src/images/drawio.jpg)
