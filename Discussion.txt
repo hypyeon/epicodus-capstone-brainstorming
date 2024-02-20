@@ -1,0 +1,13 @@
+Discussed with Daniya on Feb 20, 2024
+
+Daniya's Question 1: What technologies will be used? 
+My Answer: React, API for timezones, and Redux. Designing was done via Figma. I'd love to make an iOS application for this but since our time is very tight - we'll have about 3 weeks to build this in order to submit by the time we start our internship - I'm not aiming to do that right now. Maybe I'll make it a mobile-friendly (responsive design) web app. 
+
+Daniya's Question 2: Is React truly enough for this application? Details about messaging features. 
+My Answer: Using only React won't be ideal for this particular application as users will have to find each other to send messages - which will have to be saved in their chat rooms. Firebase is what I'm currently planning to use but upper cohort students were recommending Netlify - which will have to be explored. Would like to receive Erik's inputs about this as well. 
+
+My Question 1: What do you like about my planning? 
+Daniya's Answer: I really like the idea about this application because I also have the same experience when interacting with my family, relatives, and friends, who are all in different coutries and time zones. We always ask each other "what time is it there?" when starting to chat or have to google their current time before reaching out. It almost became a habit but it'd be nice not having to do that by seeing their current time when talking to them in the chat. The design looks good and I'm excited to see the outcome. 
+
+My Question 2: Do you foresee any challenges or obstacles that I may be facing when developing this application? 
+Daniya's Answer: Only thing I would say that as I have no idea how messaging feature and setting up it would look like, and I'm sure this would be your first time building this feature as well, I'd be nervous about how I'd go about it if I were in your shoes. It'd take a lot of time trying to figure out how to make it possible for users to find each other with account information and send each other messages that will pop up real-time and saved in the chat rooms. But if this is a challenge you're willing to go through and learn from it, I think it'll be a really good experience. For now we are just starting C# course, maybe learning C# and .NET will help you get to your goal with this application more efficiently. 
