@@ -28,6 +28,7 @@ by [Hayeong Pyeon](https://www.hayeong.website)
 6. If time zone conversion is needed, `date-fns` will be used. 
 7. In order to display real-time messages (without requiring users to refresh the page), **Firebase**, or other database technology will be used. 
 8. **Jest** will be used to test out accuracy of messaging features including message contents and timestamps. 
+- Presentation (project objective): [discussion](/Discussion.txt) conducted with a peer about the application planning. 
 
 ## License
 Copyright © 2024 Hayeong Pyeon | [MIT](/LICENSE.txt) 
