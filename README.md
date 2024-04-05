@@ -3,12 +3,12 @@ by [Hayeong Pyeon](https://www.hayeong.website)
 
 ## Description
 - This is a brainstorming section for Capstone project. 
-- Draw.io was used for **Idea Board & Outline**. (*Idea board created on Jan 12, 2024*)
-- **Application Planning #1** includes more in-depth plans about the app design and functionality, and what technologies to be used for major features. Came up with a name for this app - **Linkup Zone**. (*Completed on Feb 16, 2024*)
+- Draw.io was used for **Idea Board & Outline**. 
+- **Application Planning #1** includes more in-depth plans about the app design and functionality, and what technologies to be used for major features. Came up with a name for this app - **Linkup Zone**. 
 - **Application Planning #2: Capstone Project Proposal** follows a template provided by Epicodus. This proposal is included as a beginning part of MVP building. (*Completed on April 4, 2024*)
 - Any in-person discussion regarding the project will be uploaded separately from the README, in `.txt` format, for recording and future reference purpose. 
 
-## Idea Board (Jan 12, 2024)
+## Idea Board
 ![Idea Board](./src/images/drawio.jpg)
 - This program is initially built for me and my family members who live in different countries with different time zones. 
 - When this program is ready, we can communicate with each other without having to calculate their current, past, or future times in different time zones when trying to reach out to each other. 
@@ -17,7 +17,7 @@ by [Hayeong Pyeon](https://www.hayeong.website)
 - Possible roadblocks: I have not developed an app that involves real-time messaging system or account set-up for users. 
 - If I were asked to begin working on this program now, I would start with coming up with dashboard design on Figma and see what can be done with HTML, CSS, JavaScript and webpack. 
 
-## Application Planning #1 (Feb 16, 2024)
+## Application Planning #1
 ![Figma Draft Design](./src/images/linkup-zone-figma.png)
 - The application has 4 different menu sections: Time Zones, Contacts, Chat, and Settings. Time Zones and Chat sections will be priotized. 
 - Technologies to be used: 
@@ -99,13 +99,21 @@ Users will be able to explore more in this chat, for example:
   - A library like moment.js for more sophisticated date and time manipulation.
 
 ### Research & Planning 
-> This research plan is constructed ahead of the listed dates and is being updated after each day to log what has been completed with total hour information to show how many hours are spent. On May 6th, everything below will be the final log of research and planning conducted. 
+> This research plan is constructed ahead of the listed dates and is being updated after each day to log what has been completed with total hour information to show how many hours are spent. On May 6th, everything below will be the final log of research and planning conducted. Required total is 120 hours including development. 
+
+**Friday, January 12th**
+- [Idea Board](#idea-board)
+> total: 4 hours
+
+**Friday, February 16th**
+- [Application Planning #1](#application-planning-1)
+> total: 4 hours 
 
 **Thursday, April 4th**
 - Proposal building
 - Youtube tutorials on creating messaging apps
 - Research on Firebase, what it offers and what developers use it for
-> total research time: 6 hours
+> total: 6 hours
 
 **Friday, April 5th**
 - How to test using React Testing Library
