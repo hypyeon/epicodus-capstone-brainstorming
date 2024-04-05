@@ -98,9 +98,18 @@ Users will be able to explore more in this chat, for example:
   - WebSocket integration for real-time communication for enhanced user experience.
   - A library like moment.js for more sophisticated date and time manipulation.
 
-### Note
-> Is there anything else you'd like your instructor to know?
-- Nothing at the moment. 
+### Research & Planning 
+> This research plan is constructed ahead of the dates and is being updated after each day to log what has been completed and how many hours are spent. On May 6th, everything below will be the final log of research and planning conducted. 
+
+Thursday, April 4th
+- Proposal building
+- Youtube tutorials on creating messaging apps
+- Research on Firebase, what it offers and what developers use it for
+> total research time: 6 hours
+
+Friday, April 5th
+- How to test using React Testing Library
+- Research on moment-timezone library and how date-fns in JS are generally used
 
 ## License
 Copyright © 2024 Hayeong Pyeon | [MIT](/LICENSE.txt) 
