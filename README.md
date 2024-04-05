@@ -34,8 +34,9 @@ by [Hayeong Pyeon](https://www.hayeong.website)
 ## Application Planning #2: Capstone Project Proposal (April 4, 2024)
 
 ### Project's Purpose or Goal
-> What will it do for users?
-> List the absolute minimum features the project requires to meet this purpose or goal. 
+> What will it do for users?    
+> List the absolute minimum features the project requires to meet this purpose or goal.     
+
 Users should be able to do the following:
 - create accounts, log in and out, and terminate their accounts. 
 - select their time zone upon signing up and change it when needed through account management.  
@@ -45,7 +46,7 @@ Users should be able to do the following:
 - send each other messages that are displayed with time information: their time zone and the user's time zone when sent/received. 
 
 ### Resources to be used for the MVP
-> What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? 
+> What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP?     
 > List them all here. Be specific.
 - Frontend Framework: React
 - Styling: SCSS, Bootstrap, Flexbox, Grid, etc. 
@@ -58,6 +59,7 @@ Users should be able to do the following:
 
 ### Possible Further Enhancement
 > If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Be specific.
+
 Users will be able to explore more in this chat, for example:
 - advanced security features. 
 - check the real-time currency exchange rate between the currency of the user in the chat with you and the currency in the country you're in.
