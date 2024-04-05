@@ -5,7 +5,7 @@ by [Hayeong Pyeon](https://www.hayeong.website)
 - This is a brainstorming section for Capstone project. 
 - Draw.io was used for **Idea Board & Outline**. 
 - **Application Planning #1** includes more in-depth plans about the app design and functionality, and what technologies to be used for major features. Came up with a name for this app - **Linkup Zone**. 
-- **Application Planning #2: Capstone Project Proposal** follows a template provided by Epicodus. This proposal is included as a beginning part of MVP building. (*Completed on April 4, 2024*)
+- **Application Planning #2: Capstone Project Proposal** follows a template provided by Epicodus. This proposal is included as a beginning part of MVP building. 
 - Any in-person discussion regarding the project will be uploaded separately from the README, in `.txt` format, for recording and future reference purpose. 
 
 ## Idea Board
@@ -31,7 +31,7 @@ by [Hayeong Pyeon](https://www.hayeong.website)
 8. **Jest** will be used to test out accuracy of messaging features including message contents and timestamps. 
 - Presentation (project objective): [discussion](/Discussion.txt) conducted with a peer about the application planning. 
 
-## Application Planning #2: Capstone Project Proposal (April 4, 2024)
+## Application Planning #2: Capstone Project Proposal
 
 ### Project's Purpose or Goal
 > What will it do for users?    
@@ -110,7 +110,7 @@ Users will be able to explore more in this chat, for example:
 > total: 4 hours 
 
 **Thursday, April 4th**
-- Proposal building
+- [Proposal building](#application-planning-2-capstone-project-proposal)
 - Youtube tutorials on creating messaging apps
 - Research on Firebase, what it offers and what developers use it for
 > total: 6 hours
