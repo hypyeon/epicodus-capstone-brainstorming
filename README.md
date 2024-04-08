@@ -112,12 +112,17 @@ Users will be able to explore more in this chat, for example:
 **Thursday, April 4th**
 - [Proposal building](#application-planning-2-capstone-project-proposal)
 - Youtube tutorials on creating messaging apps
-- Research on Firebase, what it offers and what developers use it for
 > total: 6 hours
 
 **Friday, April 5th**
-- How to test using React Testing Library
+- Youtube tutorials on creating messaging apps
+- Watch Firebase tutorial
+> total: 2 hours
+
+**Saturday, April 6th**
+- Research on how to test using React Testing Library
 - Research on moment-timezone library and how date-fns in JS are generally used
+> total: 2 hours
 
 ## License
 Copyright © 2024 Hayeong Pyeon | [MIT](/LICENSE.txt) 
