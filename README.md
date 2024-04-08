@@ -121,7 +121,7 @@ Users will be able to explore more in this chat, for example:
 
 **Saturday, April 6th**
 - Research on how to test using React Testing Library
-- Research on moment-timezone library and how date-fns in JS are generally used
+- Research on moment-timezone library and how date-fns in JS are generally used: discovered Temporal API
 > total: 2 hours
 
 ## License
