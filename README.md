@@ -112,7 +112,15 @@ Users will be able to explore more in this chat, for example:
 **Thursday, April 4th**
 - [Proposal building](#application-planning-2-capstone-project-proposal)
 - Youtube tutorials on creating messaging apps
-> total: 4 hours
+
+**Friday, April 5th**
+- Youtube tutorials on creating messaging apps
+> total: 2 hours
+
+**Saturday, April 6th**
+- Research on how to test using React Testing Library
+- Research on moment-timezone library and how date-fns in JS are generally used: discovered Temporal API
+> total: 2 hours
 
 **Thursday, April 11th**
 - Research on Firebase, what it offers and what developers use it for
