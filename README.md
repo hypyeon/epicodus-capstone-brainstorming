@@ -112,6 +112,7 @@ Users will be able to explore more in this chat, for example:
 **Thursday, April 4th**
 - [Proposal building](#application-planning-2-capstone-project-proposal)
 - Youtube tutorials on creating messaging apps
+> total: 2 hours
 
 **Friday, April 5th**
 - Youtube tutorials on creating messaging apps
@@ -132,9 +133,7 @@ Users will be able to explore more in this chat, for example:
 
 **Friday, April 22nd**
 - Interview with PupPod (internship) and preparation
-- How to test using React Testing Library
-- Research on moment-timezone library and how date-fns in JS are generally used
-> total: 3.5 hours
+> total: 2.5 hours
 
 ## License
 Copyright © 2024 Hayeong Pyeon | [MIT](/LICENSE.txt) 
