@@ -164,7 +164,7 @@ Users will be able to explore more in this chat, for example:
 - Xcode build not going through with an error message indicating that `ReactCommon` module was redefined. Spent 2 hours trying to find the "repeated" modules within `Pods` directory: no solution found. 
 - Found out that the module is being detected by Ruby, found out Ruby version was old (April 2022), installed a newer version for better compatibility. 
 - `pod` started having issues installing and updating changes to be applied to Xcode. Updating Ruby did not help. 
-- Seriously considering starting everything from the top... 
+- Ended up creating a new `react-native` dir: Xcode & Simulator working as expected. 
 
 ## License
 Copyright © 2024 Hayeong Pyeon | [MIT](/LICENSE.txt) 
