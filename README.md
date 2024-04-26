@@ -147,5 +147,24 @@ Users will be able to explore more in this chat, for example:
 - Capstone project repo was refreshed with `git push --force` command, which was to update the whole repo without using `git pull` - a necessary action to rebuild the entire directory structure with React Native app setup due to authentication setup error with Xcode app. Logging 3.5 days of work here separately since the commit history is gone. 
 > total: 25.5 hours 
 
+### Problem Solving logs
+*not to log hours but to log issues being dealt with*
+
+**April 22nd - April 24th**
+- Didn't properly install react-native app, causing issues with Google sign-in feature of Firebase. 
+- Coding was successful with UI for the log-in page and successfully rendered it using Expo. 
+
+**April 25th**
+- Figured out how to successfully install react-native and starting from ios (the most complicated set-up especially for Google sign-up, among apps including Android and Web). 
+- Force-pushed the new react-native directory, all previous logs are gone. 
+- Spent the whole day trying to solve issues when building ios using Xcode and rendering UI on Simulator. 
+- Everything worked fine until there was an error with `GoogleService-Info.plist` file not correctly recognized in Xcode. Redownloaded from Firebase and added the file again: success.
+- Issue with `Podfile`. Added `pod` imports for Firebase Auth: success. 
+- Xcode not allowing access to the Simulator after installing files using `pod` due to incompatibility with the M3 chip. Added `arm64` to the Simulator setting: success. 
+- Xcode build not going through with an error message indicating that `ReactCommon` module was redefined. Spent 2 hours trying to find the "repeated" modules within `Pods` directory: no solution found. 
+- Found out that the module is being detected by Ruby, found out Ruby version was old (April 2022), installed a newer version for better compatibility. 
+- `pod` started having issues installing and updating changes to be applied to Xcode. Updating Ruby did not help. 
+- Seriously considering starting everything from the top... 
+
 ## License
 Copyright © 2024 Hayeong Pyeon | [MIT](/LICENSE.txt) 
