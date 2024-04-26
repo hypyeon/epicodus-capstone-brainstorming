@@ -144,8 +144,8 @@ Users will be able to explore more in this chat, for example:
 > total: 1 hour
 
 **Monday, April 22nd - Thursday, April 25th**
-- Capstone project repo was refreshed with `git push --force` command, which was to update the whole repo without using `git pull` - a necessary action to rebuild the entire directory structure with React Native app setup due to authentication setup error with Xcode app. Logging 3.5 days of work here separately since the commit history is gone. 
-> total: 25.5 hours 
+- Capstone project repo was refreshed with `git push --force` command, which was to update the whole repo without using `git pull` - a necessary action to rebuild the entire directory structure with React Native app setup due to the authentication setup error with Xcode app. Logging 4 days of work here separately since the commit history is gone. 
+> total: 26.5 hours 
 
 ### Problem Solving logs
 *not to log hours but to log issues being dealt with*
