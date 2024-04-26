@@ -131,9 +131,21 @@ Users will be able to explore more in this chat, for example:
 - Applying for 3 internships (Cover letter, resume, portfolio polishing)
 > total: 4.5 hours
 
-**Friday, April 22nd**
+**Monday, April 22nd**
 - Interview with PupPod (internship) and preparation
 > total: 2.5 hours
+
+**Wednesday, April 24th**
+- Interview with SignedPic (internship) and preparation
+> total: 1.5 hours
+
+**Thursday, April 25th**
+- Interview with Fill Marketing (internship) and preparation
+> total: 1 hour
+
+**Monday, April 22nd - Thursday, April 25th**
+- Capstone project repo was refreshed with `git push --force` command, which was to update the whole repo without using `git pull` - a necessary action to rebuild the entire directory structure with React Native app setup due to authentication setup error with Xcode app. Logging 3.5 days of work here separately since the commit history is gone. 
+> total: 25.5 hours 
 
 ## License
 Copyright © 2024 Hayeong Pyeon | [MIT](/LICENSE.txt) 
