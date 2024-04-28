@@ -147,6 +147,15 @@ Users will be able to explore more in this chat, for example:
 - Capstone project repo was refreshed with `git push --force` command, which was to update the whole repo without using `git pull` - a necessary action to rebuild the entire directory structure with React Native app setup due to the authentication setup error with Xcode app. Logging 4 days of work here separately since the commit history is gone. 
 > total: 26.5 hours 
 
+**Friday, April 26th**
+- Youtube tutorial on React Native with Firebase
+- Cohort get-together
+> total: 8 hours
+
+**Saturday, April 27th**
+- Debugging with dependencies and react-native related errors with Xcode and Expo. 
+> total: 4 hours
+
 ### Problem Solving logs
 *not to log hours but to log issues being dealt with*
 
@@ -165,6 +174,12 @@ Users will be able to explore more in this chat, for example:
 - Found out that the module is being detected by Ruby, found out Ruby version was old (April 2022), installed a newer version for better compatibility. 
 - `pod` started having issues installing and updating changes to be applied to Xcode. Updating Ruby did not help. 
 - Ended up creating a new `react-native` dir: Xcode & Simulator working as expected. 
+
+**April 27th**
+- Error occurs when trying to build with Xcode, "No bundle URL present": not fixed but UI renders when using `react-native run-ios`
+- When running with `react-native` command, another unknown error occurs "Cannot read property 'viewManagersMetadata' of null" 
+- Errors like "Unable to find a specification for ExpoModulesCore depended upon by ExpoLinearGraident" and "Unknown ruby interpreter version (do not know how to handle): >=2.6.10." are not solved. 
+- Decided to install the react-native afresh (again...)
 
 ## License
 Copyright © 2024 Hayeong Pyeon | [MIT](/LICENSE.txt) 
