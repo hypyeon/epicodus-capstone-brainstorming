@@ -7,6 +7,8 @@ by [Hayeong Pyeon](https://www.hayeong.website)
 - **Application Planning #1** includes more in-depth plans about the app design and functionality, and what technologies to be used for major features. Came up with a name for this app - **Linkup Zone**. 
 - **Application Planning #2: Capstone Project Proposal** follows a template provided by Epicodus. This proposal is included as a beginning part of MVP building. 
 - Any in-person discussion regarding the project will be uploaded separately from the README, in `.txt` format, for recording and future reference purpose. 
+> [!NOTE]
+> Click [here](https://github.com/hypyeon/linkup-zone) to go to the **Linkup Zone** repository. 
 
 ## Idea Board
 ![Idea Board](./src/images/drawio.jpg)
@@ -155,6 +157,11 @@ Users will be able to explore more in this chat, for example:
 **Saturday, April 27th**
 - Debugging with dependencies and react-native related errors with Xcode and Expo. 
 > total: 4 hours
+
+**Thursday, May 2nd**
+- Prepping for capstone presentation
+- Research & study on schedule-send feature (code could not be constructed by deadline, leaving the process as it is - MVP accomplished except for this) 
+> total: 8 hours 
 
 ### Problem Solving logs
 *not to log hours but to log issues being dealt with*
